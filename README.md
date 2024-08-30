@@ -1,4 +1,4 @@
-# Boosting Grades: A Fun Dive into Student Success with Data**
+# Boosting Grades: A Fun Dive into Student Success with Data
 
 **Objective of Conducting This Exploration**
 The primary objective of this exploration is to leverage the rich and multifaceted dataset of 2,392 high school students to uncover deep insights into the factors influencing academic performance. By systematically analyzing the diverse variables captured in the dataset — including demographic information, study habits, parental involvement, extracurricular activities, and academic outcomes — we aim to achieve the following goals:
